@@ -1,14 +1,14 @@
 import React from 'react'
 
 // import logo from './logo.svg';
-// import ProductInfo from './Pages/ProductInfo';
-// {/* <ProductInfo /> */}
+import ProductInfo from './Pages/ProductInfo';
 
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      {/* <h1>Hello</h1> */}
+     <ProductInfo />
     </>
   );
 }
