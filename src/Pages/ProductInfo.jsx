@@ -6,8 +6,8 @@ import axios from 'axios'
 //  const imageUrl = 'http://192.168.1.100:8088/Api/Doctors/GetFile/DrFatima230619124249603.png';
 
 // const CurrentURL4API = 'http://localhost:7088/Api'
-// const CurrentURL4API = 'http://72.255.36.49:8088/Api'
-const CurrentURL4API = 'https://wavelaz.kozow.com:8088/Api'
+const CurrentURL4API = 'http://72.255.36.49:8088/Api'
+// const CurrentURL4API = 'https://wavelaz.kozow.com:8088/Api'
 
 export default function ProductInfo() {
   const [Recs, setRecs] = useState('')
