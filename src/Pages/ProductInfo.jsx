@@ -38,7 +38,7 @@ export default function ProductInfo() {
 
   return (
     <>
-      <h3>Product Information with StormFiber</h3>
+      <h3>Product Information</h3>
 
       {/* <h2>Image from URL</h2> */}
 
